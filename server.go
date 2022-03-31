@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 
-	// "os" ===== aaaa
+	// "os"
 	"github.com/line/line-bot-sdk-go/v7/linebot"
 	"github.com/line/line-bot-sdk-go/v7/linebot/httphandler"
 )
